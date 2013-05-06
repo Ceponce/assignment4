@@ -10,8 +10,6 @@ public class BilliardsProblem
  
     public static void main(String [] args)
     {
-
-        
         
         
         
