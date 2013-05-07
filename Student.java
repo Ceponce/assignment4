@@ -87,5 +87,6 @@ public class Student
 	   firstName = s.next();
 	   lastName = s.next();
 	   GPA = s.nextDouble();	   
-   }   
+   }
+
 }
